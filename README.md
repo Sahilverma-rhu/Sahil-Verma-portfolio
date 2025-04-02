@@ -29,7 +29,7 @@
     <h2>Case Study: Bellabeat Smart Device Analysis</h2>
     <p><strong>Overview:</strong> This case study examines smart device usage trends to help Bellabeat refine its marketing strategy.</p>
     <p><strong>Process:</strong> The analysis followed these steps: Ask, Prepare, Process, Analyze, Share, and Act.</p>
-    <p>[ Methodologies
+    <p>Methodologies
 	1.	Data Acquisition & Preparation:
 
 	2.	Exploratory Data Analysis (EDA):
@@ -77,16 +77,30 @@ Email: varmasaahil@gmail.com | Phone: +91 9805131001 | Location: Shimla, India |
 ---  linkedin.com/in/sahilverma
 
 ## **Professional Summary**  
-Google-certified Data Analyst with extensive experience in SQL, R, and Python for data-driven decision-making. Proficient in data visualization using Power BI and Tableau, and skilled in statistical analysis, forecasting, and machine learning. Adept at transforming raw data into actionable insights to optimize business strategies. Seeking an opportunity to leverage analytical expertise in a data-centric role.  
+Google-certified Data Analyst with expertise in SQL, Python, and R for data-driven decision-making. Proficient in data visualization (Power BI, Tableau), data cleaning, statistical analysis, and reporting. Strong understanding of business intelligence (BI), A/B testing, and forecasting. Recently completed a Technical Writing Certification from Coursera, enhancing my ability to communicate complex insights clearly. Adept at transforming raw data into actionable insights to drive business growth and optimize decision-making processes.  
 
 ---  
 
 ## **Key Skills**  
-- **Data Analysis & Management:** SQL, R, Python (Pandas, NumPy, Scikit-learn), Excel, Google Sheets  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Machine Learning & AI:** Regression, Classification, Clustering, A/B Testing  
-- **Big Data & Cloud:** Hadoop, Spark, Google Cloud Platform (GCP)  
-- **Business Intelligence & Strategy:** Data-Driven Decision-Making, Trend Analysis  
+ Data Analytics & Management:
+
+✔ SQL (PostgreSQL, MySQL, BigQuery) | Python (Pandas, NumPy, Matplotlib, Seaborn) | R | Excel | Google Sheets
+
+Data Visualization & Business Intelligence:
+
+✔ Power BI | Tableau | Matplotlib | Seaborn | Google Data Studio
+
+Machine Learning & Predictive Analytics:
+
+✔ Regression | Classification | Clustering | Forecasting | A/B Testing
+
+Big Data & Cloud Technologies:
+
+✔ Hadoop | Spark | Google Cloud Platform (GCP)
+
+Technical Writing & Documentation:
+
+✔ Report Writing | Data Storytelling | Business Reports | Documentation | Coursera Technical Writing Certification
 
 ---  
 
@@ -100,37 +114,46 @@ J.C.B. New Shimla (2009 – 2010) | 65%
 ---  
 
 ## **Work Experience**  
-### **Data Analyst Intern**  
-**Freelance & Projects** | Remote (2023 – Present)  
-- Conducted exploratory data analysis (EDA) on large datasets to identify trends and insights.  
-- Built interactive dashboards in Power BI and Tableau for real-time data visualization.  
-- Implemented machine learning models in Python and R for predictive analytics.  
-- Optimized SQL queries to improve database performance and efficiency.  
+ Data Analyst | Freelance & Projects (Remote, 2023 – Present)
+	•	Conducted exploratory data analysis (EDA) on datasets exceeding 100,000+ records to identify key trends and business insights.
+	•	Built interactive Power BI and Tableau dashboards, reducing manual reporting time by 40%.
+	•	Developed SQL-based automation scripts, optimizing query performance by 30%.
+	•	Implemented predictive analytics models (Python, R) to forecast customer churn, improving retention strategies by 12%.
+	•	Created data-driven reports and presentations, effectively communicating insights to non-technical stakeholders.
 
-### **Trainee Engineer**  
-**Fresenius Kabi** | Baddi, Himachal Pradesh (07/2013 – 12/2013)  
-- Oversaw installation and maintenance of mechanical systems and equipment.  
-- Conducted root cause analysis on system failures, optimizing performance.  
-- Assisted in data-driven problem-solving for process improvement.  
+Trainee Engineer | Fresenius Kabi (Baddi, Himachal Pradesh, 07/2013 – 12/2013)
+	•	Assisted in data collection and trend analysis to optimize production efficiency.
+	•	Conducted root cause analysis for system failures, leading to a 15% reduction in downtime.
+	•	Created technical documentation for process improvements.
 
-### **Automobile Trainee**  
-**Chevrolet Rajvir Motors** | Shimla, India (01/2013 – 02/2013)  
-- Diagnosed and resolved automotive mechanical issues, reducing repair time by 20%.  
-- Managed inventory efficiently, decreasing downtime by 15%.  
-- Developed a predictive maintenance model using historical data.  
+Automobile Trainee | Chevrolet Rajvir Motors (Shimla, India, 01/2013 – 02/2013)
+	•	Analyzed historical maintenance data to develop a predictive maintenance model, reducing repair time by 20%.
+	•	Streamlined inventory management using Excel dashboards, cutting downtime by 15%. 
 
 ---  
 
-## **Projects & Certifications**  
-- **Google Data Analytics Certification** – Mastered SQL, R, and Python for data analysis.  
-- **Power BI Workshop** – Hands-on experience in dashboard creation and data visualization.  
-- **Capstone Project:** Developed a customer retention model using Python & SQL.  
-- **Sentiment Analysis Project:** Analyzed social media sentiment using NLP in R.  
+## **Certifications**  
+ •	Google Data Analytics Certification (Coursera, 2024)
+	•	Technical Writing Certification (Coursera, 2024)
+	•	Power BI Workshop – Hands-on training in dashboard creation, data modeling, and visualization.
+PROJECTS
 
+Customer Retention Analysis (Python, SQL, Power BI)
+	•	Designed a churn prediction model using Python (scikit-learn) and SQL queries, improving retention rates by 12%.
+	•	Developed an interactive Power BI dashboard for real-time churn monitoring.
+
+Sales Trend Forecasting (Power BI, SQL, Excel)
+	•	Analyzed 2 years of sales data, uncovering key trends that led to a 15% revenue increase.
+	•	Built a forecasting model to predict seasonal sales trends with 85% accuracy.
+
+Sentiment Analysis on Social Media (R, NLP)
+	•	Performed text mining and sentiment analysis on Twitter data to understand customer perceptions of a brand.
+	•	Created a dashboard in Tableau to visualize sentiment trends over time.
 ---  
 
 ## **Additional Information**  
-- Languages: English, Hindi  
+- Languages: English, Hindi
+- Soft Skills: Communication, Problem-Solving, Critical Thinking, Storytelling with Data 
 - Open to relocation and remote opportunities.  
 - Strong communication and teamwork skills.   ]</p>
   </section>
