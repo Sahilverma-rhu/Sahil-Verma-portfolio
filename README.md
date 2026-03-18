@@ -72,83 +72,91 @@ Showcase testimonials and case studies that underline how data-driven insights h
   <section id="resume">
     <h2>Resume / Skills</h2>
     <p>[ **SAHIL VERMA**  
-Email: varmasaahil@gmail.com | Phone: +91 9805131001 | Location: Shimla, India | LinkedIn:  | GitHub: github.com/sahilverma-rhu  
+Shimla, Himachal Pradesh, India · +91 9805131001
+sahilverma.rhu@gmail.com
+linkedin.com/in/sahilverma-99280974 | github.com/sahilverma-rhu
 
----  linkedin.com/in/sahilverma
+---
 
-## **Professional Summary**  
-Google-certified Data Analyst with expertise in SQL, Python, and R for data-driven decision-making. Proficient in data visualization (Power BI, Tableau), data cleaning, statistical analysis, and reporting. Strong understanding of business intelligence (BI), A/B testing, and forecasting. Recently completed a Technical Writing Certification from Coursera, enhancing my ability to communicate complex insights clearly. Adept at transforming raw data into actionable insights to drive business growth and optimize decision-making processes.  
+PROFESSIONAL SUMMARY
 
----  
+Data Analyst with 3+ years of experience in analytics and 6+ years in operational leadership, specializing in translating complex data into actionable business strategies. Proven ability to build predictive models (87% accuracy) and interactive dashboards that drive a 15-20% improvement in operational efficiency. Expert in SQL, Python, and Power BI, seeking to leverage a unique blend of technical acumen and project management expertise to deliver data-driven solutions.
 
-## **Key Skills**  
- Data Analytics & Management:
+---
 
-✔ SQL (PostgreSQL, MySQL, BigQuery) | Python (Pandas, NumPy, Matplotlib, Seaborn) | R | Excel | Google Sheets
+TECHNICAL SKILLS
 
-Data Visualization & Business Intelligence:
+· Data Analysis & Programming: Python (Pandas, NumPy, Scikit-learn), R, SQL (MySQL, Google BigQuery)
+· Data Visualization: Power BI, Tableau, Excel (Advanced)
+· Machine Learning & Techniques: Regression, Classification, Clustering, Forecasting, A/B Testing, Feature Engineering, EDA
+· Tools & Workflows: Git, GitHub, Jupyter Notebook, VS Code, Data Cleaning, Documentation
 
-✔ Power BI | Tableau | Matplotlib | Seaborn | Google Data Studio
+---
 
-Machine Learning & Predictive Analytics:
+WORK EXPERIENCE
 
-✔ Regression | Classification | Clustering | Forecasting | A/B Testing
+Data Annotator (AI/ML Training)
+Innodata India Pvt Ltd | Remote | Nov 2025 – Present
 
-Big Data & Cloud Technologies:
+· Annotate and validate complex datasets for machine learning models, consistently achieving 99%+ accuracy and ensuring high-quality training data.
+· Evaluate AI-generated outputs for linguistic and contextual correctness, providing structured feedback to directly improve model performance.
+· Developed and maintained detailed documentation to standardize annotation processes and ensure team alignment.
 
-✔ Hadoop | Spark | Google Cloud Platform (GCP)
+Data Analyst (Freelance)
+Remote | Jan 2021 – Present
 
-Technical Writing & Documentation:
+· Data Analysis & Modeling: Analyzed datasets of 10,000+ records using SQL and Python to identify performance gaps and trends. Developed predictive models for customer churn and sales forecasting, achieving 85%+ accuracy.
+· BI & Visualization: Designed and deployed interactive Power BI and Tableau dashboards for real-time KPI tracking, enabling stakeholders to monitor business health and make data-driven decisions.
+· Process Optimization: Optimized complex SQL queries, reducing data retrieval time by 25%. Delivered actionable insights that led to a 15-20% increase in client operational efficiency.
+· Collaboration & Documentation: Structured end-to-end analytics workflows and published reproducible code on GitHub, promoting transparency and knowledge sharing.
 
-✔ Report Writing | Data Storytelling | Business Reports | Documentation | Coursera Technical Writing Certification
+Project Manager – Construction
+Self-Employed | Shimla, India | Jan 2014 – Dec 2020
 
----  
+· Data-Driven Operations: Managed 15+ residential and commercial projects worth ₹5+ crore, utilizing data analysis to monitor progress, allocate resources, and control costs.
+· Financial Modeling & Forecasting: Developed advanced Excel-based cost forecasting models to track budgets and material costs, leading to a 12% reduction in expenses through strategic vendor analysis.
+· Risk & Variance Management: Ensured all projects were delivered with less than 5% budget variance by continuously analyzing financial data and adjusting plans proactively.
 
-## **Education**  
-**Bachelor of Technology (B.Tech) - Mechanical Engineering**  
-Bahra University, India (08/2010 – 08/2014)  
+Trainee Engineer
+Fresenius Kabi | 2013
 
-**CBSE 12th Grade**  
-J.C.B. New Shimla (2009 – 2010) | 65%  
+· Assisted in equipment maintenance and process monitoring, contributing to a 15% reduction in operational downtime through timely identification and resolution of technical issues.
 
----  
+---
 
-## **Work Experience**  
- Data Analyst | Freelance & Projects (Remote, 2023 – Present)
-	•	Conducted exploratory data analysis (EDA) on datasets exceeding 100,000+ records to identify key trends and business insights.
-	•	Built interactive Power BI and Tableau dashboards, reducing manual reporting time by 40%.
-	•	Developed SQL-based automation scripts, optimizing query performance by 30%.
-	•	Implemented predictive analytics models (Python, R) to forecast customer churn, improving retention strategies by 12%.
-	•	Created data-driven reports and presentations, effectively communicating insights to non-technical stakeholders.
-
-Trainee Engineer | Fresenius Kabi (Baddi, Himachal Pradesh, 07/2013 – 12/2013)
-	•	Assisted in data collection and trend analysis to optimize production efficiency.
-	•	Conducted root cause analysis for system failures, leading to a 15% reduction in downtime.
-	•	Created technical documentation for process improvements.
-
-Automobile Trainee | Chevrolet Rajvir Motors (Shimla, India, 01/2013 – 02/2013)
-	•	Analyzed historical maintenance data to develop a predictive maintenance model, reducing repair time by 20%.
-	•	Streamlined inventory management using Excel dashboards, cutting downtime by 15%. 
-
----  
-
-## **Certifications**  
- •	Google Data Analytics Certification (Coursera, 2024)
-	•	Technical Writing Certification (Coursera, 2024)
-	•	Power BI Workshop – Hands-on training in dashboard creation, data modeling, and visualization.
 PROJECTS
 
-Customer Retention Analysis (Python, SQL, Power BI)
-	•	Designed a churn prediction model using Python (scikit-learn) and SQL queries, improving retention rates by 12%.
-	•	Developed an interactive Power BI dashboard for real-time churn monitoring.
+Customer Churn Prediction | Python, SQL, Scikit-learn
 
-Sales Trend Forecasting (Power BI, SQL, Excel)
-	•	Analyzed 2 years of sales data, uncovering key trends that led to a 15% revenue increase.
-	•	Built a forecasting model to predict seasonal sales trends with 85% accuracy.
+· Developed an end-to-end classification model to predict customer churn with 87% accuracy.
+· Performed extensive data cleaning, feature engineering, and model evaluation, identifying tenure and billing patterns as key churn drivers to inform retention strategies.
+· [Link to GitHub Repository]
 
-Sentiment Analysis on Social Media (R, NLP)
-	•	Performed text mining and sentiment analysis on Twitter data to understand customer perceptions of a brand.
-	•	Created a dashboard in Tableau to visualize sentiment trends over time.
+Sales Analytics Dashboard | Power BI, SQL
+
+· Built an interactive Power BI dashboard to track regional sales KPIs, enabling real-time performance monitoring for management.
+· Automated data transformation and reporting workflows, reducing manual reporting effort by over 10 hours per month.
+· [Link to Portfolio/GitHub]
+
+Customer Sentiment Analysis | R, NLP
+
+· Processed and analyzed a corpus of 5,000+ customer reviews using Natural Language Processing (NLP) techniques in R.
+· Extracted actionable sentiment patterns to provide recommendations for product and service improvements.
+
+---
+
+EDUCATION
+
+Bachelor of Technology (Mechanical Engineering)
+Bahra University | 2010 – 2014
+
+---
+
+CERTIFICATIONS
+
+· Google Data Analytics Professional Certificate | 2025
+· Power BI Workshop | 2025
+· Technical Writing Certification | Coursera | 2025
 ---  
 
 ## **Additional Information**  
