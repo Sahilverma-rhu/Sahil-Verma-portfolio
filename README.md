@@ -22,7 +22,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hi, I'm Er Sahil Verma,a mechanical engineer and also a data analyst passionate about transforming raw data into actionable insights. I specialize in data cleaning, analysis, and visualization using tools like Excel, SQL, R, Tableau,  PowerBI, and Python.</p>
+    <p>Hi, I'm Er Sahil Verma, a Google-certified Data Analyst with a Mechanical Engineering degree and 5+ years in quality assurance. I'm currently an AI Trainer at micro1, where I evaluate video data for AI models. What I bring is a trained eye for detail — whether it's catching a formatting error or flagging an AI output that doesn't align with context, I ensure accuracy and consistency in every deliverable. I specialize in data cleaning, analysis, and visualization using tools like Excel, SQL, R, Tableau,  PowerBI, and Python.</p>
   </section>
 
   <section id="case-study">
@@ -95,32 +95,19 @@ TECHNICAL SKILLS
 
 WORK EXPERIENCE
 
+ 
+AI Trainer
+micro1 | Remote Oct 2026 – Present
+• Annotate and evaluate video data for AI model training with 99%+ accuracy; review AI outputs for contextual alignment and provide structured feedback to improve model performance
 Data Annotator (AI/ML Training)
-Innodata India Pvt Ltd | Remote | Nov 2025 – Present
-
-· Annotate and validate complex datasets for machine learning models, consistently achieving 99%+ accuracy and ensuring high-quality training data.
-· Evaluate AI-generated outputs for linguistic and contextual correctness, providing structured feedback to directly improve model performance.
-· Developed and maintained detailed documentation to standardize annotation processes and ensure team alignment.
-
-Data Analyst (Freelance)
-Remote | Jan 2021 – Present
-
-· Data Analysis & Modeling: Analyzed datasets of 10,000+ records using SQL and Python to identify performance gaps and trends. Developed predictive models for customer churn and sales forecasting, achieving 85%+ accuracy.
-· BI & Visualization: Designed and deployed interactive Power BI and Tableau dashboards for real-time KPI tracking, enabling stakeholders to monitor business health and make data-driven decisions.
-· Process Optimization: Optimized complex SQL queries, reducing data retrieval time by 25%. Delivered actionable insights that led to a 15-20% increase in client operational efficiency.
-· Collaboration & Documentation: Structured end-to-end analytics workflows and published reproducible code on GitHub, promoting transparency and knowledge sharing.
-
-Project Manager – Construction
-Self-Employed | Shimla, India | Jan 2014 – Dec 2020
-
-· Data-Driven Operations: Managed 15+ residential and commercial projects worth ₹5+ crore, utilizing data analysis to monitor progress, allocate resources, and control costs.
-· Financial Modeling & Forecasting: Developed advanced Excel-based cost forecasting models to track budgets and material costs, leading to a 12% reduction in expenses through strategic vendor analysis.
-· Risk & Variance Management: Ensured all projects were delivered with less than 5% budget variance by continuously analyzing financial data and adjusting plans proactively.
-
-Trainee Engineer
-Fresenius Kabi | 2013
-
-· Assisted in equipment maintenance and process monitoring, contributing to a 15% reduction in operational downtime through timely identification and resolution of technical issues.
+Innodata India Pvt Ltd | Remote Nov 2025 – Mar 2026 • Annotated ML training datasets with 99%+ accuracy; reviewed AI-generated content for linguistic and cultural accuracy while maintaining strict data security and confidentiality per client guidelines
+Proof Reader
+Chemzin Graphics Pvt Ltd | India
+• Reduced client revision requests by 15% through proactive error detection on large-volume print projects; partnered with design and production teams to resolve quality issues and meet tight deadlines
+Proof Reader
+Universal Cartons Solutions Pvt Ltd | India Oct 2020 – Nov 2023
+• Achieved zero-defect output across high-volume production runs by catching formatting errors pre-delivery; built SOPs and QA checklists that standardized quality across the team
+Early Career: Project Manager – Construction (2014–2020) | Trainee Engineer (2013)
 
 ---
 
